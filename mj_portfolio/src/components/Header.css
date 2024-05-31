@@ -1,0 +1,24 @@
+.custom-navbar {
+  background-color: #7d91ae;
+  border-bottom: 2px solid #7d91ae;
+}
+
+.custom-navbar .navbar-brand {
+  color: #fff !important;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.custom-navbar {
+  background-color: #6a7c97;
+  border-bottom: 2px solid #7d91ae;
+  display: flex;
+  justify-content: center; 
+}
+
+.navbar-title {
+  color: #fff;
+  font-size: 1.5rem;
+  font-weight: bold;
+  font-family: 'Quicksand', sans-serif; 
+}

@@ -4,22 +4,13 @@ import './Footer.css';
 
 function Footer() {
   return (
-    <footer className="footer bg-dark text-white">
+    <footer className="footer">
       <Container>
         <Row>
-          <Col md={6}>
-            <p>&copy; 2024 Maria Jaroszewska. All rights reserved.</p>
-          </Col>
-          <Col md={6} className="text-md-right">
-            <a href="https://twitter.com/yourusername" className="text-white ml-2">
-              <span className="social-icon">T</span>
-            </a>
-            <a href="https://linkedin.com/in/yourusername" className="text-white ml-2">
-              <span className="social-icon">L</span>
-            </a>
-            <a href="https://github.com/yourusername" className="text-white ml-2">
-              <span className="social-icon">G</span>
-            </a>
+          <Col md={12} className="text-center">
+            <p>&copy; 2024 Maria Jaroszewska</p>
+            <p>All rights reserved</p>
+            <p><a href="https://github.com/mariajaro" className="footer-link">GitHub</a></p>
           </Col>
         </Row>
       </Container>
