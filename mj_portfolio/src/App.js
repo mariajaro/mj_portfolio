@@ -44,10 +44,10 @@ function App() {
           Welcome to my portfolio! I'm Maria, a passionate front-end developer with a knack for crafting beautiful and functional user interfaces. Over the past two years, I've honed my skills at Noroff School of Technology and Digital Media, diving deep into the world of front-end development.
           </p>
           <p>
-            During my studies, I've gained a solid foundation in HTML, CSS, and JavaScript, and I've become particularly adept with front-end frameworks like React. My true passion lies in UI/UX design, where I strive to create websites that are not only user-friendly but also visually stunning.
+            During my studies, I've gained a solid foundation in HTML, CSS, and JavaScript, and I've become particularly adept with front-end frameworks like React. My true passion lies in UI/UX design, where I strive to create websites that are not only user-friendly but also visually good looking.
           </p>
           <p>
-            I thrive in collaborative environments and love working with teams to tackle complex problems. My journey as a developer is all about continuous growth and making a positive impact through the projects I work on.
+            Please feel free to contact me!
           </p>
         </div>
       </div>
